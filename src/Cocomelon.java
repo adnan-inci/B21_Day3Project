@@ -5,5 +5,6 @@ public class Cocomelon {
         System.out.println("i love cocomelon");
 
         // tell me about yourself
+        // tell me about your background
     }
 }
